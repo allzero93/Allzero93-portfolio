@@ -15,3 +15,6 @@ gallery1:
 
 ### 갤러리 샘플
 {% include gallery id="gallery1" caption="갤러리 설명" %}
+
+### 참고할것:
+[http://allzero93.com/](http://allzero93.com/)
