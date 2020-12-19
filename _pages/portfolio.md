@@ -17,4 +17,4 @@ gallery1:
 {% include gallery id="gallery1" caption="갤러리 설명" %}
 
 ### 참고할것:
-[http://allzero93.com/](http://allzero93.com/)
+[https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery)
