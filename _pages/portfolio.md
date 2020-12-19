@@ -11,6 +11,10 @@ g1:
   - url: https://flic.kr/p/8a6VXP
     image_path: https://farm5.staticflickr.com/4046/4697502929_72c612c636_q.jpg
     alt: "Fog in the trees"
+  - url: /assets/images/bio-photo.jpg
+    image_path: /assets/images/bio-photo.jpg
+    alt: "프사"
+    title: "/assets/image 폴더에 있는 이미지는 클릭시 페이지 내에서 확대표기됨."
 fr1:
   - image_path: /assets/images/bio-photo.jpg
     alt: "프사이미지로딩안될때노출문구"
